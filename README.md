@@ -5,3 +5,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project was created for the first challenge of the Knowledge Monkey Seminar Series on Git. It requires angular to run.
 
 To view this project run "ng serve --open" from the project directory.
+
+Version 1.0.0
